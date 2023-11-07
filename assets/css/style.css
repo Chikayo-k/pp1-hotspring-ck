@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+   
+}
+/* Head Section */
+header {
+    background-color: #1A3C40;
+    color: #EDE6DB;
+}
+
+/* Main Section */
+main {
+    background-color: #ffffff;
+}
+
+/* Footer  */
+footer {
+    background-color: #1A3C40;
+    color: #EDE6DB;
+}
