@@ -17,11 +17,19 @@ body {
 header {
     background-color: #1A3C40;
     color: #EDE6DB;
+    padding: 0 0.3rem 0.3rem 0.5rem;
 }
 
-#logo {
+
+h1 {
     font-family: 'Cormorant', serif;
 }
+
+header a {
+    text-decoration: none;
+    color: #EDE6DB;
+  }
+
 
 /* Main Section */
 main {
