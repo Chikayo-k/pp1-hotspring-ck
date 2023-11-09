@@ -1,43 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&family=Noto+Sans+JP:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&family=Noto+Sans+JP:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    min-height: 100vh;
-    font-family: 'Noto Sans JP', sans-serif;
-
+  min-height: 100vh;
+  font-family: "Noto Sans JP", sans-serif;
 }
 
 /* Head Section */
 header {
-    background-color: #1A3C40;
-    color: #EDE6DB;
-    padding: 0 0.3rem 0.3rem 0.5rem;
+  background-color: #1a3c40;
+  color: #ede6db;
+  padding: 0 0.3rem 0.3rem 0.5rem;
 }
 
-
 h1 {
-    font-family: 'Cormorant', serif;
+  font-family: "Cormorant", serif;
 }
 
 header a {
-    text-decoration: none;
-    color: #EDE6DB;
-  }
-
+  text-decoration: none;
+  color: #ede6db;
+}
 
 /* Main Section */
 main {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 /* Footer  */
 footer {
-    background-color: #1A3C40;
-    color: #EDE6DB;
+  background-color: #1a3c40;
+  color: #ede6db;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
