@@ -125,8 +125,14 @@ footer li {
   }
 
   /* Footer */
+  footer {
+    justify-content: flex-end;
+  }
   .smp {
     font-size: 1.5rem;
     padding: 0 1rem;
   }
+}
+
+@media screen and (min-width: 992px) {
 }
