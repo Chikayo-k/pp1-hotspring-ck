@@ -16,11 +16,12 @@ body {
 header {
   background-color: #1a3c40;
   color: #ede6db;
-  padding: 0 0.3rem 0.3rem 0.5rem;
+  padding: 0.3rem 0.5rem;
 }
 
 h1 {
   font-family: "Cormorant", serif;
+  letter-spacing: 0.05em;
 }
 
 header a {
@@ -40,6 +41,18 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.3rem 0.5rem;
+}
+footer ul {
+  display: flex;
+}
+
+footer li {
+  list-style: none;
+  padding-right: 1rem;
 }
 
 .smp {
