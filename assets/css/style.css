@@ -17,6 +17,12 @@ header {
   background-color: #1a3c40;
   color: #ede6db;
   padding: 0.3rem 0.5rem;
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 h1 {
@@ -29,9 +35,37 @@ header a {
   color: #ede6db;
 }
 
-/* Main Section */
-main {
-  background-color: #ffffff;
+.active {
+  font-weight: bold;
+  font-size: 105%;
+}
+
+nav {
+  position: absolute;
+  background-color: #1a3c40;
+  width: 100%;
+  left: 0;
+  display: none;
+  top: 100%;
+}
+
+#menu-items {
+  font-size: 130%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  padding: 1rem 0;
+}
+
+#hb-menu {
+  display: none;
+}
+
+.hb-menu {
+  font-size: 200%;
+}
+
+#hb-menu:checked ~ nav {
+  display: block;
 }
 
 /* Footer  */
