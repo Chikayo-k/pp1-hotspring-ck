@@ -18,6 +18,7 @@ body {
 /* Head Section */
 header {
   background-color: #1a3c40;
+  opacity: 0.75;
   color: #ede6db;
   padding: 0.3rem 0.5rem;
   position: fixed;
@@ -148,4 +149,7 @@ footer li {
 }
 
 @media screen and (min-width: 992px) {
+  #explore {
+    height: 80vh;
+  }
 }
