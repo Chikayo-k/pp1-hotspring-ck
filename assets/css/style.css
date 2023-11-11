@@ -15,6 +15,17 @@ body {
   font-family: "Noto Sans JP", sans-serif;
 }
 
+h1,
+h2 {
+  font-family: "Cormorant", serif;
+  letter-spacing: 0.05em;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
 /* Head Section */
 header {
   background-color: #1a3c40;
@@ -27,11 +38,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-}
-
-h1 {
-  font-family: "Cormorant", serif;
-  letter-spacing: 0.05em;
 }
 
 header a {
@@ -79,10 +85,26 @@ nav {
 /* Main contents */
 
 #explore {
-  background: url("../images/hotspring3.jpg") no-repeat center center/cover;
   width: 100%;
-  height: 700px;
+  height: 400px;
+  background-color: #1a3c40;
 }
+
+#hotspringInJP {
+  padding: 1rem;
+}
+
+#hotspringInJP > h1 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+/* benefit section */
+.images-main {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
 /* Footer  */
 footer {
   background-color: #1a3c40;
@@ -134,7 +156,7 @@ footer li {
 
   /* Main */
 
-  img {
+  #explore {
     width: 100%;
   }
 
@@ -148,8 +170,18 @@ footer li {
   }
 }
 
+@media screen and (min-width: 768px) {
+  #explore {
+    height: 100%;
+  }
+
+  .images-main {
+    width: 50%;
+  }
+}
+
 @media screen and (min-width: 992px) {
   #explore {
-    height: 80vh;
+    height: 90vh;
   }
 }
