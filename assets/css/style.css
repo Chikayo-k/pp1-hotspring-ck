@@ -98,7 +98,7 @@ nav {
 #hotspringInJP,
 #benefits,
 #japaneseHotel {
-  padding: 1rem 1rem 0 1rem;
+  padding: 2rem 1.2rem 0 1.2rem;
 }
 
 .images-main {
@@ -163,6 +163,12 @@ footer li {
   }
 
   /* Main */
+
+  #hotspringInJP,
+  #benefits,
+  #japaneseHotel {
+    padding: 2.5rem 7rem 0 7rem;
+  }
   .title {
     font-size: 2rem;
   }
@@ -202,12 +208,6 @@ footer li {
     height: 90vh;
   }
 
-  #hotspringInJP,
-  #benefits,
-  #japaneseHotel {
-    padding: 2.5rem 2.5rem 0 2.5rem;
-  }
-
   #hotspringInJP {
     display: flex;
     flex-direction: row-reverse;
@@ -230,10 +230,12 @@ footer li {
   }
 
   .content {
-    padding-top: 5%;
+    padding-top: 4rem;
   }
 
   .video {
-    height: 82vh;
+    width: 70%;
+    height: 70vh;
+    margin-left: 15%;
   }
 }
