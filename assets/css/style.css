@@ -90,7 +90,8 @@ nav {
   background-color: #1a3c40;
 }
 
-#hotspringInJP {
+#hotspringInJP,
+.benefits {
   padding: 1rem;
 }
 
@@ -102,7 +103,7 @@ nav {
 /* benefit section */
 .images-main {
   width: 100%;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 
 /* Footer  */
