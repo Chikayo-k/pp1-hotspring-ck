@@ -278,4 +278,15 @@ footer li {
     height: 70vh;
     margin-left: 15%;
   }
+
+  /*--- //Destinations Page //----*/
+  .recPic {
+    width: 100%;
+    height: auto;
+    margin: 2rem 0;
+  }
+  .listOfOnsen {
+    text-align: center;
+    line-height: 3rem;
+  }
 }
