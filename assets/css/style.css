@@ -36,6 +36,10 @@ blockquote {
   font-size: 1.6rem;
 }
 
+a:hover {
+  font-size: 120%;
+  font-weight: bold;
+}
 /* Head Section */
 header {
   background-color: #1a3c40;
