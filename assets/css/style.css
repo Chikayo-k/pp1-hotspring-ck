@@ -144,9 +144,19 @@ footer li {
   color: #ffffff;
 }
 
-/* //Destinations Page //*/
+/*--- //Destinations Page //----*/
 .map {
   width: 100%;
+}
+.listOfOnsen {
+  list-style-type: none;
+  line-height: 2em;
+  margin: 1.5rem 0;
+}
+
+.listOfOnsen > li > a {
+  text-decoration: none;
+  color: black;
 }
 
 /* Media query */
