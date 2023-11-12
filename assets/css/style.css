@@ -163,6 +163,28 @@ footer li {
   color: black;
 }
 
+/* /// Sign Up Page /// */
+#signUpBox {
+  background-color: #1a3c40;
+}
+
+.formdiv1 {
+  position: relative;
+}
+.formdiv2 {
+  position: absolute;
+  background-color: black;
+  color: #ede6db;
+  width: 70%;
+  margin: 30% 0 0 15%;
+  padding: 10% 5%;
+}
+.signUpPic {
+  width: 100%;
+  height: auto;
+  background-color: #1a3c40;
+}
+
 /* Media query */
 
 @media screen and (min-width: 768px) {
