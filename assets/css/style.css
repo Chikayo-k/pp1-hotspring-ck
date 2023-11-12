@@ -168,23 +168,34 @@ footer li {
   background-color: #1a3c40;
 }
 
-.formdiv1 {
-  position: relative;
-}
-.formdiv2 {
-  position: absolute;
-  background-color: black;
-  color: #ede6db;
-  width: 70%;
-  margin: 30% 0 0 15%;
-  padding: 10% 5%;
-}
 .signUpPic {
   width: 100%;
   height: auto;
   background-color: #1a3c40;
 }
 
+.formdiv1 {
+  position: relative;
+}
+.formdiv2 {
+  position: absolute;
+  background-color: rgb(0, 0, 0, 0.8);
+  color: #ede6db;
+  width: 80%;
+  margin: 30% 0 0 10%;
+  padding: 10% 10%;
+  line-height: 1.9rem;
+}
+
+.signUpP {
+  font-size: 0.7rem;
+  line-height: 1rem;
+  margin-bottom: 1rem;
+}
+
+.submit {
+  padding: 0.5rem;
+}
 /* Media query */
 
 @media screen and (min-width: 768px) {
