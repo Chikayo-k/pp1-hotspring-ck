@@ -21,20 +21,25 @@ h2 {
   letter-spacing: 0.05em;
 }
 
+img {
+  max-width: 100%;
+}
+
+p,
+blockquote {
+  font-size: 1.1rem;
+}
+
 .title {
   text-align: center;
   padding-bottom: 1rem;
-  font-size: 1.7rem;
-}
-
-img {
-  max-width: 100%;
+  font-size: 1.6rem;
 }
 
 /* Head Section */
 header {
   background-color: #1a3c40;
-  opacity: 0.75;
+  opacity: 0.8;
   color: #ede6db;
   padding: 0.3rem 0.5rem;
   position: fixed;
@@ -69,7 +74,7 @@ nav {
 }
 
 #menu-items {
-  font-size: 130%;
+  font-size: 1.6rem;
   text-align: center;
   letter-spacing: 0.05em;
   padding: 1rem 0;
@@ -144,7 +149,7 @@ footer li {
     height: 100%;
   }
   #logo {
-    font-size: 2.5rem;
+    font-size: 3rem;
     padding: 0.5rem 1rem;
   }
   nav {
@@ -171,14 +176,6 @@ footer li {
   }
   .title {
     font-size: 2rem;
-  }
-
-  .content P {
-    font-size: 1rem;
-  }
-
-  blockquote {
-    font-size: 1rem;
   }
 
   .content1 {
