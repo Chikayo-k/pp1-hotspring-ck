@@ -102,7 +102,9 @@ nav {
 
 #hotspringInJP,
 #benefits,
-#japaneseHotel {
+#japaneseHotel,
+#whereTogo,
+#map {
   padding: 2rem 1.2rem 0 1.2rem;
 }
 
@@ -139,6 +141,11 @@ footer li {
 
 .smp {
   color: #ffffff;
+}
+
+/* //Destinations Page //*/
+.map {
+  width: 100%;
 }
 
 /* Media query */
