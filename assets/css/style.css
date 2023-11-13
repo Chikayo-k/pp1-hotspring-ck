@@ -1,3 +1,4 @@
+/* Initial setting */
 @import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&family=Noto+Sans+JP:wght@300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap");
 
@@ -40,8 +41,18 @@ a:hover {
   font-size: 120%;
   font-weight: bold;
 }
-/* Head Section */
 
+/* paddings around the contents */
+#hotspringInJP,
+#benefits,
+#japaneseHotel,
+#whereTogo,
+#map,
+#recommendations {
+  padding: 2rem 1.2rem 0 1.2rem;
+}
+
+/* Head Section*/
 header {
   background-color: #1a3c40;
   opacity: 0.8;
@@ -97,7 +108,7 @@ nav {
   display: block;
 }
 
-/* Main contents */
+/*// Main contents// */
 
 /* explore */
 
@@ -133,16 +144,8 @@ nav {
   font-size: 0.9rem;
 }
 
-#hotspringInJP,
-#benefits,
-#japaneseHotel,
-#whereTogo,
-#map,
-#recommendations {
-  padding: 2rem 1.2rem 0 1.2rem;
-}
-
-.images-main {
+.imgJapan,
+.imgbenefits {
   width: 100%;
 }
 
@@ -240,11 +243,25 @@ footer li {
   font-weight: bold;
 }
 
-/* Media query */
+/*------- Media query ------------*/
 
+/* //Over 768px// */
 @media screen and (min-width: 768px) {
-  /* Header */
+  /* Initial setting */
+  #hotspringInJP,
+  #benefits,
+  #japaneseHotel,
+  #destinations,
+  #whereTogo,
+  #map,
+  #recommendations {
+    padding: 2.5rem 7rem 0 7rem;
+  }
+  .title {
+    font-size: 2rem;
+  }
 
+  /* Header */
   #logo {
     font-size: 3rem;
     padding: 0.5rem 1rem;
@@ -277,24 +294,12 @@ footer li {
     font-size: 1.2rem;
   }
 
-  #hotspringInJP,
-  #benefits,
-  #japaneseHotel,
-  #destinations,
-  #whereTogo,
-  #map,
-  #recommendations {
-    padding: 2.5rem 7rem 0 7rem;
-  }
-  .title {
-    font-size: 2rem;
-  }
-
   .content1 {
     text-align: right;
   }
 
-  .images-main {
+  .imgJapan,
+  .imgbenefits {
     border-radius: 50%;
   }
   .video {
@@ -334,6 +339,7 @@ footer li {
   }
 }
 
+/* //Over 992 px// */
 @media screen and (min-width: 992px) {
   .explorediv {
     width: 50%;
@@ -357,7 +363,8 @@ footer li {
     text-align: center;
   }
 
-  .images-main {
+  .imgJapan,
+  .imgbenefits {
     width: 90%;
   }
 
