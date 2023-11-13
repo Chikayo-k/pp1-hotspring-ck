@@ -168,12 +168,6 @@ footer li {
   background-color: #1a3c40;
 }
 
-.signUpPic {
-  width: 100%;
-  height: auto;
-  background-color: #1a3c40;
-}
-
 .formdiv1 {
   position: relative;
 }
@@ -196,6 +190,11 @@ footer li {
 .submit {
   padding: 0.5rem;
 }
+.picContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /* Media query */
 
 @media screen and (min-width: 768px) {
@@ -274,6 +273,11 @@ footer li {
   .listOfOnsen {
     text-align: right;
   }
+
+  /* //Sign Up Page// */
+  .hide {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -323,4 +327,9 @@ footer li {
     text-align: center;
     line-height: 3rem;
   }
+
+  /* /// Sign Up Page /// */
+  /* .picdiv {
+    width: 50%;
+  } */
 }

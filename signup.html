@@ -49,31 +49,33 @@
                     <p class="signUpP">Get discount coupons from our partner every week </p>
                     <form action="/action_page.php">
                         <label for="fname">First name:</label><br>
-                        <input type="text" id="fname" name="fname"><br>
+                        <input type="text" id="fname" name="fname" required><br>
                         <label for="lname">Last name:</label><br>
-                        <input type="text" id="lname" name="lname"><br>
+                        <input type="text" id="lname" name="lname" required><br>
                         <label for="email">Email:</label><br>
-                        <input type="email" id="email" name="email"><br>
+                        <input type="email" id="email" name="email" required><br>
                         <label for="password">Password:</label><br>
-                        <input type="password" id="password" name="password"><br>
-                        <label for="cfpassword">Confirm Password:</label><br>
-                        <input type="password" id="cfpassword" name="cfpassword"><br><br>
+                        <input type="password" id="password" name="password" required><br><br>
                         <input class="submit" type="submit" value="Submit">
                     </form>
 
                 </div>
             </div>
-            <div class="signUpdiv">
-                <img class="signUpPic" src="assets/images/green-tea.jpg" alt="Japanese green tea">
-            </div>
-            <div class="signUpdiv">
-                <img class="signUpPic" src="assets/images/hot-spring3.jpg" alt="">
-            </div>
-            <div class="signUpdiv">
-                <img class="signUpPic" src="assets/images/japanese-umbrella.jpg" alt="">
-            </div>
-            <div class="signUpdiv">
-                <img src="assets/images/ryokan3.jpg" alt="">
+
+            <div class="picContainer">
+                <div class="picdiv">
+                    <img class="signUpPic" src="assets/images/green-tea.jpg" alt="Japanese green tea">
+                </div>
+
+                <div class="picdiv">
+                    <img class="signUpPic" src="assets/images/japanese-umbrella.jpg" alt="">
+                </div>
+                <div class="picdiv hide">
+                    <img class="signUpPic" src="assets/images/ryokan.jpg" alt="">
+                </div>
+                <div class="picdiv hide">
+                    <img class="signUpPic" src="assets/images/hotspring3.jpg" alt="">
+                </div>
             </div>
 
 
