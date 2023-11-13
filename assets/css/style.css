@@ -110,22 +110,26 @@ nav {
 
 .explorediv {
   position: absolute;
-  width: 80%;
-  height: 24%;
+  width: 95%;
+  height: 28%;
   background-color: rgb(0, 0, 0, 0.8);
   color: #ede6db;
-  bottom: 15%;
+  bottom: 37%;
   right: 0;
   justify-content: center;
   align-items: center;
   display: flex;
-}
-
-.explorediv {
+  text-align: center;
+  padding: 1rem;
 }
 
 .extitlediv > h1 {
-  padding-bottom: 0;
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.extitlediv > p {
+  font-size: 0.9rem;
 }
 
 #hotspringInJP,
@@ -247,6 +251,9 @@ footer li {
   }
 
   /* Main */
+  .explorediv {
+    width: 65%;
+  }
 
   #hotspringInJP,
   #benefits,
