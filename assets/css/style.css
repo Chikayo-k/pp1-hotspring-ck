@@ -216,6 +216,11 @@ footer li {
   text-align: center;
 }
 
+.picContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .signUpP {
   font-size: 1rem;
   line-height: 1rem;
@@ -233,11 +238,6 @@ footer li {
   background-color: #1d5c63;
   cursor: pointer;
   font-weight: bold;
-}
-
-.picContainer {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 /* Media query */
