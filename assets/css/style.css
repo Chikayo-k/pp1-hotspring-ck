@@ -306,14 +306,14 @@ footer li {
   .recommendationsDiv {
     display: flex;
     text-align: center;
+    justify-content: center;
+    align-items: center;
   }
   .box {
     flex: 1;
   }
   .recPic {
-    width: 95%;
-    height: 60%;
-    margin: 20% 5% 0 0;
+    width: 100%;
   }
   .listOfOnsen {
     text-align: right;
