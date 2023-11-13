@@ -177,14 +177,17 @@ footer li {
   color: #ede6db;
   width: 80%;
   margin: 30% 0 0 10%;
-  padding: 10% 10%;
-  line-height: 1.9rem;
+  padding: 15% 10%;
+  line-height: 2.2rem;
+  font-size: 1.1rem;
+  text-align: center;
 }
 
 .signUpP {
-  font-size: 0.7rem;
+  font-size: 1rem;
   line-height: 1rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .submit {
@@ -329,7 +332,17 @@ footer li {
   }
 
   /* /// Sign Up Page /// */
-  /* .picdiv {
+  .picdiv {
     width: 50%;
-  } */
+  }
+
+  .hide {
+    display: block;
+  }
+
+  .formdiv2 {
+    margin: 15% 25% 0 25%;
+    width: 50%;
+    padding: 5% 0;
+  }
 }
