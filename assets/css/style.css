@@ -144,7 +144,6 @@ nav {
 
 .images-main {
   width: 100%;
-  margin: 2rem 0 0 0;
 }
 
 .video {
@@ -334,10 +333,14 @@ footer li {
   #hotspringInJP {
     display: flex;
     flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
   }
 
   #benefits {
     display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .imagdiv {
@@ -348,12 +351,9 @@ footer li {
   .images-main {
     width: 90%;
   }
-  .box {
-    flex: 1;
-  }
 
   .content {
-    padding-top: 4rem;
+    /* padding-top: 4rem; */
   }
 
   .video {
