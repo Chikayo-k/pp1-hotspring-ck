@@ -224,8 +224,17 @@ footer li {
 }
 
 .submit {
+  width: 15%;
   padding: 0.5rem;
 }
+
+.submit:hover {
+  color: #ede6db;
+  background-color: #1d5c63;
+  cursor: pointer;
+  font-weight: bold;
+}
+
 .picContainer {
   display: flex;
   flex-wrap: wrap;
