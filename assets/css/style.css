@@ -197,7 +197,7 @@ footer li {
 }
 
 /* /// Sign Up Page /// */
-#signUpBox {
+#signUp {
   background-color: #1a3c40;
 }
 
@@ -384,7 +384,7 @@ footer li {
   }
 
   .formdiv2 {
-    margin: 15% 25% 0 25%;
+    margin: 10% 25% 0 25%;
     width: 50%;
     padding: 5% 0;
   }
