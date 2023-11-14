@@ -179,6 +179,11 @@ footer li {
   color: #ffffff;
 }
 
+.flogo > a {
+  text-decoration: none;
+  color: #ede6db;
+}
+
 /*--- //Destinations Page //----*/
 #destination {
   background: url(../images/ryokan5.jpg) no-repeat center center/cover;
@@ -265,11 +270,13 @@ footer li {
     font-size: 2rem;
   }
 
-  /* Header */
-  #logo {
+  #logo,
+  .flogo {
     font-size: 3rem;
     padding: 0.5rem 1rem;
   }
+
+  /* Header */
 
   nav {
     display: block;
