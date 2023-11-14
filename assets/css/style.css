@@ -111,7 +111,6 @@ nav {
 /*// Main contents// */
 
 /* explore */
-
 #explore {
   background: url(../images/hot-spring3.jpg) no-repeat center center/cover;
   width: 100%;
@@ -165,6 +164,7 @@ footer {
   align-items: center;
   padding: 0.3rem 0.5rem;
 }
+
 footer ul {
   display: flex;
   list-style-type: none;
@@ -185,9 +185,11 @@ footer li {
   width: 100%;
   height: 500px;
 }
+
 .map {
   width: 100%;
 }
+
 .listOfOnsen {
   list-style-type: none;
   line-height: 2em;
@@ -207,6 +209,7 @@ footer li {
 .formdiv1 {
   position: relative;
 }
+
 .formdiv2 {
   position: absolute;
   background-color: rgb(0, 0, 0, 0.8);
@@ -257,6 +260,7 @@ footer li {
   #recommendations {
     padding: 2.5rem 7rem 0 7rem;
   }
+
   .title {
     font-size: 2rem;
   }
@@ -266,17 +270,21 @@ footer li {
     font-size: 3rem;
     padding: 0.5rem 1rem;
   }
+
   nav {
     display: block;
     position: relative;
   }
+
   header ul {
     display: flex;
     justify-content: flex-end;
   }
+
   nav a {
     padding-right: 2rem;
   }
+
   .menuLabel {
     display: none;
   }
@@ -285,6 +293,7 @@ footer li {
   .explorediv {
     width: 70%;
   }
+
   .extitlediv > h1 {
     font-size: 2.2rem;
     padding-bottom: 0.5rem;
@@ -302,6 +311,7 @@ footer li {
   .imgbenefits {
     border-radius: 50%;
   }
+
   .video {
     height: 40vh;
     margin: 2rem 0;
@@ -311,6 +321,7 @@ footer li {
   footer {
     justify-content: flex-end;
   }
+
   .smp {
     font-size: 1.5rem;
     padding: 0 1rem;
@@ -323,12 +334,14 @@ footer li {
     justify-content: center;
     align-items: center;
   }
+
   .box {
     flex: 1;
   }
   .recPic {
     width: 100%;
   }
+
   .listOfOnsen {
     text-align: right;
   }
@@ -368,10 +381,6 @@ footer li {
     width: 90%;
   }
 
-  .content {
-    /* padding-top: 4rem; */
-  }
-
   .video {
     width: 70%;
     height: 70vh;
@@ -385,6 +394,7 @@ footer li {
     height: auto;
     margin: 2rem 0;
   }
+
   .listOfOnsen {
     text-align: center;
     line-height: 3rem;
