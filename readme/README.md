@@ -50,4 +50,14 @@ To engage and encourage people to use JPspa, we will provide excellent discount 
 
 - The footer section has four social media icons linking to their respective sites. All the links open in new tabs. Also, the logo has a feature that allows users to jump to the top of the page.
 - Placing social media icons captures the attention of users and encourages them to explore more details with their respective sites.
-  ![Alt text](../readme/media/footer.png)
+
+  ![Footer image](../readme/media/footer.png)
+
+### Destination page
+
+**The destinations page image**
+
+- A photograph of a traditional Japanese shoji window.
+- This section’s imagery will allow users to imagine what a luxury Japanese-style hotel is like and help them choose where they want to make their memories while in Japan.
+
+![Destination image](../readme/media/destination.png)
