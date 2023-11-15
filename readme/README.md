@@ -61,3 +61,30 @@ To engage and encourage people to use JPspa, we will provide excellent discount 
 - This section’s imagery will allow users to imagine what a luxury Japanese-style hotel is like and help them choose where they want to make their memories while in Japan.
 
 ![Destination image](../readme/media/destination.png)
+
+**Where to go section**
+
+- The title explains this page with a brief introduction
+- User will see what this page is about clearly
+
+![Where you can go image](../readme/media/wheretogo.png)
+
+**Map of Japanese Onsen**
+
+- Map that displays hot-spring spots in Japan that can be clicked and users can find more details.
+- This section will allow users to explore our partner hot springs throughout the country and help them decide where in Japan they would love to visit. The map can be zoomed in to see where would be the best place to visit.
+
+![Map of Japanese onsen image](../readme/media/map.png)
+
+**Recomendation section**
+
+- The recommendations section provides information on famous hot springs in Japan. They are all linked to our partner's websites and open up in a new tab.
+- This section is valuable to users as they will be able to find our partner websites easily and find more information for their final decision.
+
+![Recommendations image](../readme/media/recommendation.png)
+
+**Sign Up page**
+
+- • This page allows users to sign up to be a member of JPspa. Membership benefits are we provide discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
+
+![Sign up page](../readme/media/signup.png)
