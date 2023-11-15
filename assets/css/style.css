@@ -48,7 +48,8 @@ a:hover {
 #japaneseHotel,
 #whereTogo,
 #map,
-#recommendations {
+#recommendations,
+.destinationbox {
   padding: 2rem 1.2rem 0 1.2rem;
 }
 
@@ -179,7 +180,7 @@ footer li {
 }
 
 /*--- //Destinations Page //----*/
-#destination {
+.destination {
   background: url(../images/ryokan5.jpg) no-repeat center center/cover;
   width: 100%;
   height: 500px;
@@ -253,10 +254,10 @@ footer li {
   #hotspringInJP,
   #benefits,
   #japaneseHotel,
-  #destinations,
   #whereTogo,
   #map,
-  #recommendations {
+  #recommendations,
+  .destinationbox {
     padding: 2.5rem 7rem 0 7rem;
   }
 
