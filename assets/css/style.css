@@ -322,6 +322,7 @@ footer li {
   .video {
     height: 40vh;
     margin: 2rem 0;
+    border: 0;
   }
 
   /* Footer */
