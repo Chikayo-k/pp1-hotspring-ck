@@ -85,6 +85,6 @@ To engage and encourage people to use JPspa, we will provide excellent discount 
 
 **Sign Up page**
 
-- • This page allows users to sign up to be a member of JPspa. Membership benefits are we provide discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
+- This page allows users to sign up to be a member of JPspa. Membership benefits are we provide discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
 
 ![Sign up page](../readme/media/signup.png)
