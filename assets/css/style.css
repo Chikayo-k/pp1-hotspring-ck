@@ -142,6 +142,7 @@ nav {
 .imgJapan,
 .imgbenefits {
   width: 100%;
+  height: auto;
 }
 
 .video {
@@ -384,6 +385,7 @@ footer li {
   .imgJapan,
   .imgbenefits {
     width: 90%;
+    height: auto;
   }
 
   .video {
