@@ -140,19 +140,28 @@ The performance tag is a bit low due to having a YouTube video and a Google Map 
 
 - Removed slashes as the website had a warning about having a slash on the void element in the header.
 
-![Validator warning 1](../readme/media/bug1.png)
+![Validator bug 1](../readme/media/bug1.png)
 
 - Some of the closing tags weren’t closed with the same tag and some were wrong places. So fixed them.
 
-![Valdiator error1](../readme/media/bug2.png)
+![Valdiator bug 2](../readme/media/bug2.png)
 
 - Fixed duplicated ID
 
-![Validator error2](../readme/media/bug3.png)
+![Validator bug 3](../readme/media/bug3.png)
 
-- I had a warning for having an h1 tag that wasn’t a top-level heading in the explore section of the landing page.<br>Solved the issue by using a div tag instead of a section tag where the id name explores is in the tag.
+- I had a warning for having an h1 tag that wasn’t a top-level heading in the explore section of the landing page.<br>Solved the issue by using a h2 tag instead of an h1 of the place.
 
-![Validator error3](../readme/media/bug4.png)
+![Validator bug 4](../readme/media/bug4.png)
 
 - I was using a section tag only to render a picture as a background and got this issue.<br>
   So I put more content in the destination section.
+
+![Validator bug 5](../readme/media/bug5.png)
+
+**Lighthouse report improvement**<br>
+Analyse the website with Lighthouse and had high scores. However, there were still places where I could improve them.
+
+- I was using pictures where their sizes were too big and that caused the issue of the loading speed of the page to be impacted. So I compressed the images to be smaller size by converting the images to a WEBP format. This decreased the image size. Some of the pictures also used Photoshop to decrease the pixels.
+
+- Used aspect ratio property in CSS to remove the issue that the images didn’t have a correct height.
