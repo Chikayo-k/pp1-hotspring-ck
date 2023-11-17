@@ -112,6 +112,10 @@ nav {
 
 /*// Main contents// */
 
+main {
+  flex: 1 0 auto;
+}
+
 /* explore */
 #explore {
   background: url(../images/hot-spring3.webp) no-repeat center center/cover;

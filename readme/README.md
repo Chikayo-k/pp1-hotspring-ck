@@ -87,7 +87,7 @@ To engage and encourage people to use JPspa, we will provide excellent discount 
 
 - This page allows users to sign up to be a member of JPspa. Membership benefits are we provide discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
 
-![Sign up page](../readme/media/signup.png)
+![Sign up image](../readme/media/signup.png)
 
 ### Feature left to implement
 
@@ -163,5 +163,10 @@ The performance tag is a bit low due to having a YouTube video and a Google Map 
 Analyse the website with Lighthouse and had high scores. However, there were still places where I could improve them.
 
 - I was using pictures where their sizes were too big and that caused the issue of the loading speed of the page to be impacted. So I compressed the images to be smaller size by converting the images to a WEBP format. This decreased the image size. Some of the pictures also used Photoshop to decrease the pixels.
-
 - Used aspect ratio property in CSS to remove the issue that the images didn’t have a correct height.
+
+## Deployment procedure
+
+## Credits
+
+## Media
