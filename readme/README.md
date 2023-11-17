@@ -88,3 +88,46 @@ To engage and encourage people to use JPspa, we will provide excellent discount 
 - This page allows users to sign up to be a member of JPspa. Membership benefits are we provide discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
 
 ![Sign up page](../readme/media/signup.png)
+
+### Feature left to implement
+
+The website could have more pages in the future.
+I think it would attract more users to the site if there was a built in booking page. Users can book spa or Japanese-style hotels within the website increasing the value of this website and its throughput.
+
+## Testing
+
+- Tested with different browsers such as Chrome, Firefox, and Safari.
+- Tested with different screen sizes using the developer tool (Galaxy Fold, iPad, and my laptop)
+
+![Tested different screen sizes](../readme/media/testscreensize.png)
+
+- Tested navigation bar. Home, Destinations, and Sign Up pages jump to the respective places when it's clicked.
+
+![Tested Youtube video](../readme/media/test-youtube.png)
+
+- Tested all social media links in the footer to ensure they open in a new tab with the correct destination when clicked.
+
+![test-socialmedia](../readme/media/test-socialmedia.png)
+
+- Tested a logo in the footer which jumps back top of the page.
+- Tested all links in the recommendation section on the destinations page to ensure they open in a new tab with the correct destination when clicked.
+
+![Tested links](../readme/media/test-links.png)
+
+- Tested the form on the Sign-Up page. All required fields worked and the submission button worked.
+
+### Validator Testing
+
+**HTML** <br>
+All pages have no errors and warnings and have been tested with the [W3C validator](https://validator.w3.org).
+
+![Tested with the HTML Validator](../readme/media/html-validator.png)
+
+**CSS** <br>
+No errors adn warnings and have been tested with the [W3C CSS validator](https://jigsaw.w3.org/css-validator)
+
+![Tested with the CSS validator](../readme/media/css-validator.png)
+
+**Lighthouse report**<br>
+Analysed this page with Lighthouse. Most of the scores are nearly 100%.
+The performance tag is a bit low due to having a YouTube video and a Google Map on this website which has impacted the speed slightly.
