@@ -129,5 +129,30 @@ No errors adn warnings and have been tested with the [W3C CSS validator](https:/
 ![Tested with the CSS validator](../readme/media/css-validator.png)
 
 **Lighthouse report**<br>
-Analysed this page with Lighthouse. Most of the scores are nearly 100%.
+Analysed this page with Lighthouse. Most of the scores are nearly 100%.<br>
 The performance tag is a bit low due to having a YouTube video and a Google Map on this website which has impacted the speed slightly.
+
+![Lighthouse report](../readme/media/lighthouse.png)
+
+## Bugs
+
+**Fixed W3C Vlidator warnings and errors**
+
+- Removed slashes as the website had a warning about having a slash on the void element in the header.
+
+![Validator warning 1](../readme/media/bug1.png)
+
+- Some of the closing tags weren’t closed with the same tag and some were wrong places. So fixed them.
+
+![Valdiator error1](../readme/media/bug2.png)
+
+- Fixed duplicated ID
+
+![Validator error2](../readme/media/bug3.png)
+
+- I had a warning for having an h1 tag that wasn’t a top-level heading in the explore section of the landing page.<br>Solved the issue by using a div tag instead of a section tag where the id name explores is in the tag.
+
+![Validator error3](../readme/media/bug4.png)
+
+- I was using a section tag only to render a picture as a background and got this issue.<br>
+  So I put more content in the destination section.
