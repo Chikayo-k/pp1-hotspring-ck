@@ -215,7 +215,7 @@ footer li {
   min-height: 100vh;
 }
 
-/* //https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more/ */
+/* Used (https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more) as refference */
 
 .formdiv-outside {
   width: 100%;
@@ -372,6 +372,10 @@ footer li {
 
   .formdiv > p {
     margin: 5% 0;
+  }
+
+  .formdiv > h2 {
+    font-size: 2.3rem;
   }
 }
 
