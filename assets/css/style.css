@@ -215,12 +215,15 @@ footer li {
   min-height: 100vh;
 }
 
+/* //https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more/ */
+
 .formdiv-outside {
   width: 100%;
   height: 100vh;
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
+  position: relative;
 }
 
 .formdiv {
@@ -229,6 +232,10 @@ footer li {
   font-size: 1.2rem;
   width: 90%;
   padding: 10%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .formdiv > h2 {
@@ -236,7 +243,7 @@ footer li {
 }
 
 .formdiv > p {
-  padding: 10% 0;
+  margin: 10% 0;
 }
 
 #signup-form > input {
@@ -358,6 +365,14 @@ footer li {
   }
 
   /* //Sign Up Page// */
+  .formdiv {
+    width: 70%;
+    padding: 5%;
+  }
+
+  .formdiv > p {
+    margin: 5% 0;
+  }
 }
 
 /* //Over 992 px// */
@@ -407,4 +422,8 @@ footer li {
   }
 
   /* /// Sign Up Page /// */
+  .formdiv {
+    width: 35%;
+    margin-top: 2.5%;
+  }
 }
