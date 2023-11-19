@@ -38,11 +38,6 @@ blockquote {
   font-size: 1.6rem;
 }
 
-a:hover {
-  font-size: 120%;
-  font-weight: bold;
-}
-
 /* paddings around the contents */
 #hotspringInJP,
 #benefits,
@@ -79,7 +74,7 @@ header ul {
 
 .active {
   font-weight: bold;
-  font-size: 103%;
+  text-decoration: underline;
 }
 
 nav {
@@ -89,6 +84,11 @@ nav {
   left: 0;
   display: none;
   top: 100%;
+}
+
+a:hover {
+  font-weight: bold;
+  color: white;
 }
 
 #menu-items {
