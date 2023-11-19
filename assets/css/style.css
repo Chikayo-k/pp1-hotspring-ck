@@ -198,13 +198,13 @@ footer li {
   width: 100%;
 }
 
-.listOfOnsen {
+.list-onsen {
   list-style-type: none;
   line-height: 2em;
   margin: 1.5rem 0;
 }
 
-.listOfOnsen > li > a {
+.list-onsen > li > a {
   text-decoration: none;
   color: black;
 }
@@ -346,7 +346,7 @@ footer li {
   }
 
   /*--- //Destinations Page //----*/
-  .recommendationsDiv {
+  .recommendations-div {
     display: flex;
     text-align: center;
     justify-content: center;
@@ -356,12 +356,12 @@ footer li {
   .box {
     flex: 1;
   }
-  .recPic {
+  .recomendations-pic {
     width: 100%;
     aspect-ratio: 3/2;
   }
 
-  .listOfOnsen {
+  .list-onsen {
     text-align: right;
   }
 
@@ -416,12 +416,12 @@ footer li {
 
   /*--- //Destinations Page //----*/
 
-  .recPic {
+  .recomendations-pic {
     width: 100%;
     margin: 2rem 0;
   }
 
-  .listOfOnsen {
+  .list-onsen {
     text-align: center;
     line-height: 3rem;
   }
