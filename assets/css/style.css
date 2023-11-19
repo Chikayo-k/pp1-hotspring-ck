@@ -39,9 +39,9 @@ blockquote {
 }
 
 /* paddings around the contents */
-#hotspringInJP,
+#hotspring-in-jp,
 #benefits,
-#japaneseHotel,
+#japanese-hotel,
 #whereTogo,
 #map,
 #recommendations,
@@ -142,8 +142,8 @@ main {
   font-size: 0.9rem;
 }
 
-.imgJapan,
-.imgbenefits {
+.img-japan,
+.img-benefits {
   width: 100%;
   margin-top: 2rem;
   aspect-ratio: 3/2;
@@ -267,9 +267,9 @@ footer li {
 /* //Over 768px// */
 @media screen and (min-width: 768px) {
   /* Initial setting */
-  #hotspringInJP,
+  #hotspring-in-jp,
   #benefits,
-  #japaneseHotel,
+  #japanese-hotel,
   #whereTogo,
   #map,
   #recommendations,
@@ -325,8 +325,8 @@ footer li {
     text-align: right;
   }
 
-  .imgJapan,
-  .imgbenefits {
+  .img-japan,
+  .img-benefits {
     border-radius: 50%;
   }
 
@@ -386,7 +386,7 @@ footer li {
     width: 50%;
   }
 
-  #hotspringInJP {
+  #hotspring-in-jp {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
@@ -404,8 +404,8 @@ footer li {
     text-align: center;
   }
 
-  .imgJapan,
-  .imgbenefits {
+  .img-japan,
+  .img-benefits {
     width: 90%;
   }
 
