@@ -260,6 +260,7 @@ footer li {
 
 #submit:hover {
   font-weight: bold;
+  background-color: #417d7a;
 }
 
 /*------- Media query ------------*/
