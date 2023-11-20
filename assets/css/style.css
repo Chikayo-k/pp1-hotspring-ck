@@ -155,7 +155,7 @@ main {
   aspect-ratio: 2/1.2;
 }
 
-/* Footer  */
+/*//Footer//*/
 footer {
   background-color: #1a3c40;
   color: #ede6db;
@@ -186,7 +186,7 @@ footer li {
   color: #ede6db;
 }
 
-/*--- //Destinations Page //----*/
+/*--- // Destinations Page //----*/
 
 .destination {
   background: url(../images/ryokan5.webp) no-repeat center center/cover;
@@ -209,7 +209,7 @@ footer li {
   color: black;
 }
 
-/* /// Sign Up Page /// */
+/* ---// Sign Up Page //--- */
 #signup {
   background: url(../images/green-tea.webp) right center/cover;
   width: 100%;
@@ -345,7 +345,7 @@ footer li {
     padding: 0 1rem;
   }
 
-  /*--- //Destinations Page //----*/
+  /*--- // Destinations Page //----*/
   .recommendations-div {
     display: flex;
     text-align: center;
@@ -365,7 +365,7 @@ footer li {
     text-align: right;
   }
 
-  /* //Sign Up Page// */
+  /* ---// Sign Up Page //--- */
   .formdiv {
     width: 70%;
     padding: 5%;
@@ -414,7 +414,7 @@ footer li {
     margin-left: 15%;
   }
 
-  /*--- //Destinations Page //----*/
+  /*--- //Destinations Page //---*/
 
   .recomendations-pic {
     width: 100%;
@@ -426,7 +426,7 @@ footer li {
     line-height: 3rem;
   }
 
-  /* /// Sign Up Page /// */
+  /* ---// Sign Up Page //--- */
   .formdiv {
     width: 35%;
     margin-top: 2.5%;
