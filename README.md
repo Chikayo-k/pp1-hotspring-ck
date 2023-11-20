@@ -136,7 +136,7 @@ Desktop<br>
 ![Lighthouse report desktop](./readme/media/lighthouse-desktop.png)
 
 Mobile<br>
-![Lighthouse report small divices](./readme/media/lighthouse.png)
+![Lighthouse report small divices](./readme/media/lighthouse-mobile.png)
 
 ## Bugs
 
