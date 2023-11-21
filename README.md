@@ -8,7 +8,7 @@ The JPspa aims to promote onsen in Japan for their health benefits not just for 
 JPspa will offer excellent discount vouchers for different onsen in Japan on a rotating basis as well as provide a weekly newsletter with information about the onsen and their location.<br>
 (JPspa will get a commission if users go through our partner websites)
 
-![JPspa web page on the common screen sizes](./readme/media/landingpage-img.png)
+![JPspa web page on the common screen sizes](./readme/media/website-img.png)
 
 ## Existing Features
 
