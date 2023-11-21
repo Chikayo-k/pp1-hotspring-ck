@@ -90,6 +90,7 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 **Sign Up page**
 
 - This is a signup page where users can become members of JPspa. Membership benefits provide users with discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
+
   ![Sign up image](./readme/media/signup.png)
 
 ### Feature left to implement
@@ -173,6 +174,34 @@ Analyse the website with Lighthouse and had high scores. However, there were sti
 - Used aspect ratio property in CSS to remove the issue that the images didn’t have a correct height.
 
 ## Deployment procedure
+
+This site was deployed using GitHub pages.
+
+1. Go into the project repository that you want to deploy.
+2. Click the settings on the menu bar of the page.
+
+![Deployment procedure 2](./readme/media/deployment1.png)
+
+3. Check that the repository name is correct.
+4. In the general menu on the left-hand side, click the pages tab.
+
+![Deployment procedure 4](./readme/media/deployment2.png)
+
+5. Source should be set to Deploy from a branch.
+
+![Deployment procedure 5](./readme/media/deployment3.png)
+
+6. Underneath, the Branch section is selected. Here we use the main branch and root folder and save it.
+
+![Deployment procedure 6](./readme/media/deployment4.png)
+
+7. Go back to the code page and you will see the Deployment section on the right-hand side.
+
+![Deployment procedure 7](./readme/media/deployment5.png)
+
+8. Go inside the deployments, you can see the address of your website.
+
+![Deployment procedure 8](./readme/media/deployment6.png)
 
 ## Credits
 
