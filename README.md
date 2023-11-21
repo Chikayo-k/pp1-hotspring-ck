@@ -30,30 +30,30 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 
 **Hot spring in Japan section**
 
-- • A brief Introduction to hot springs in Japan and their use as Onsen, accompanied by an image capturing the beauty of Japan.
+- A brief Introduction to hot springs in Japan and their use as Onsen, accompanied by an image capturing the beauty of Japan.
 
-- In This section, users will understand that hot springs are famous in Japan, leading them to consider visiting these places while in the country.
+- In this section, users will learn that hot springs are widespread throughout Japan.
 
 ![Japan image](./readme/media/japan.png)
 
 **Benefits of Onsen section**
 
 - Explaining the benefits of Onsen, accompanied by an image of a natural hot spring.
-- In This section, users will discover the value of visiting hot springs by providing them with information on the benefits for the mind and body.
+- In This section, users will discover the value of visiting hot springs as well as information on the health benefits for the mind and body.
 
 ![Benefits of onsen image](./readme/media/benefits.png)
 
 **Japanese-style hotel section**
 
-- Explains how Japanese-style hotels are amazing and how they are rooted in traditions accompanied by a video that showcases these details. The video is clickable allowing users to start and stop it at their convenience.
+- Gives a brief intro to Japanese-style hotels and how they are rooted in the historical traditions of the country. Accompanied by a video that showcases this. The Video is a YouTube video and has the same features.
 - This user, will inspired by an amazing video and accompanying description and may contemplate taking further steps to find accommodation in a Japanese-style hotel on their visit.
 
 ![Japanese style hotel image](./readme/media/jpstyle-hotel.png)
 
 **Footer**
 
-- The footer section has four social media icons linking to their respective sites. All the links open in new tabs. Also, the logo has a feature that allows users to jump to the top of the page.
-- Placing social media icons captures the attention of users and encourages them to explore more details with their respective sites.
+- The footer contains four social media icons when clicked open in new tabs. The logo acts as a home page button.
+- Placing social media icons shows users we have an active presence outside of the website which can help to build our social media presence.
 
 ![Footer image](./readme/media/footer.png)
 
@@ -62,36 +62,35 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 **The destinations page image**
 
 - A photograph of a traditional Japanese shoji window.
-- This section’s imagery will allow users to imagine what a luxury Japanese-style hotel is like and help them choose where they want to make their memories while in Japan.
+- This section’s imagery will give users a glimpse of what a luxurious Japanese-style hotel is like and help them on their way to choose where they want to spend their in Japan.
 
 ![Destination image](./readme/media/destination.png)
 
 **Where to go section**
 
-- The title explains this page with a brief introduction
-- User will see what this page is about clearly
+- The title explains this page with a brief introduction.
+- User will see what this page is about clearly.
 
 ![Where you can go image](./readme/media/wheretogo.png)
 
 **Map of Japanese Onsen**
 
-- Map that displays hot-spring spots in Japan that can be clicked and users can find more details.
+- Map that displays hot-spring spots throughout Japan that can be clicked and expanded to provide users with more details.
 - This section will allow users to explore our partner hot springs throughout the country and help them decide where in Japan they would love to visit. The map can be zoomed in to see where would be the best place to visit.
 
 ![Map of Japanese onsen image](./readme/media/map-onsen.png)
 
 **Recomendation section**
 
-- The recommendations section provides information on famous hot springs in Japan. They are all linked to our partner's websites and open up in a new tab.
+- The recommendations section provides information on famous hot springs in Japan. They are connected with our partners for a smoother experience.
 - This section is valuable to users as they will be able to find our partner websites easily and find more information for their final decision.
 
 ![Recommendations image](./readme/media/recommendation.png)
 
 **Sign Up page**
 
-- This page allows users to sign up to be a member of JPspa. Membership benefits are we provide discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
-
-![Sign up image](./readme/media/signup.png)
+- This is a signup page where users can become members of JPspa. Membership benefits provide users with discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
+  ![Sign up image](./readme/media/signup.png)
 
 ### Feature left to implement
 
