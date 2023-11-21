@@ -24,7 +24,7 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 
 - Is a photograph accompanied by a short description and title that gives the users a clear picture of the website's purpose and gives a clear idea of where and what services are provided.
 
-- • This section creates a relaxing image for users, it uses a simple but effective image that encourages further exploration of the site for people who are interested in hot springs in Japan.
+- This section creates a relaxing image for users, it uses a simple but effective image that encourages further exploration of the site for people who are interested in hot springs in Japan.
 
 ![Landin image](./readme/media/landing.png)
 
