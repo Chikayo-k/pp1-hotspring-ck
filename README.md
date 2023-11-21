@@ -106,6 +106,7 @@ I think it would attract more users to the site if there was a built in booking 
 ![Tested different screen sizes](./readme/media/testscreensize.png)
 
 - Tested navigation bar. Home, Destinations, and Sign Up pages jump to the respective places when it's clicked.
+- Tested embedded YouTube video starts and has control within the site.
 
 ![Tested Youtube video](./readme/media/test-youtube.png)
 
