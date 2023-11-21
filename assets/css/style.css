@@ -10,7 +10,6 @@
 }
 
 body {
-  /* for footer */
   min-height: 100vh;
   display: flex;
   flex-flow: column;
@@ -38,6 +37,12 @@ blockquote {
   font-size: 1.6rem;
 }
 
+#logo,
+.flogo-w {
+  font-size: 2rem;
+  padding: 0.2rem;
+}
+
 /* paddings around the contents */
 #hotspring-in-jp,
 #benefits,
@@ -54,7 +59,7 @@ header {
   background-color: #1a3c40;
   opacity: 0.85;
   color: #ede6db;
-  padding: 0.3rem 0.5rem;
+  padding: 0.6rem 0.5rem;
   position: fixed;
   z-index: 99;
   width: 100%;
@@ -165,13 +170,14 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.3rem 0.5rem;
+  padding: 0.6rem 0.5rem;
   z-index: 1;
 }
 
 footer ul {
   display: flex;
   list-style-type: none;
+  /* font-size: 1rem; */
 }
 
 footer li {
@@ -181,6 +187,7 @@ footer li {
 
 .smp {
   color: #ffffff;
+  font-size: 1.2rem;
 }
 
 .flogo > a {
@@ -288,9 +295,8 @@ footer li {
   }
 
   #logo,
-  .flogo {
+  .flogo-w {
     font-size: 3rem;
-    padding: 0.5rem 1rem;
   }
 
   /* Header */
@@ -348,7 +354,7 @@ footer li {
 
   .smp {
     font-size: 1.5rem;
-    padding: 0 1rem;
+    padding: 0.5rem;
   }
 
   /*--- // Destinations Page //----*/
