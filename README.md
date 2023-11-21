@@ -138,7 +138,7 @@ Analysed this page with Lighthouse. Most of the scores are nearly 100%.<br>
 The performance tag is the better score on a desktop screen. a bit low due to having a YouTube video and a Google Map on this website which has impacted the speed slightly.
 
 Desktop<br>
-![Lighthouse report desktop](./readme/media/lighthouse-desktop.png)
+![Lighthouse report desktop](./readme/media/lighthouse.png)
 
 Mobile<br>
 ![Lighthouse report small divices](./readme/media/lighthouse-mobile.png)
