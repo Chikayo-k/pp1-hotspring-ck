@@ -52,7 +52,7 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 
 **Footer**
 
-- The footer contains four social media icons when clicked open in new tabs. The logo acts as a home page button.
+- The footer contains four social media icons when clicked open in new tabs.
 - Placing social media icons shows users we have an active presence outside of the website which can help to build our social media presence.
 
 ![Footer image](./readme/media/footer.png)
