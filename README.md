@@ -205,4 +205,53 @@ This site was deployed using GitHub pages.
 
 ## Credits
 
+**Contentes**<br>
+https://en.wikipedia.org/wiki/Onsen<br>
+https://hakone-japan.com/things-to-do/onsen/an-onsen-guide/health-benefits-of-onsen-2/
+
+**Code** <br>
+
+- I used the [W3 schools](https://www.w3schools.com/html/default.asp) website as a tool to build my website referring to the HTML and CSS sections.
+- To make the navigation bar and footer I used the Love Lunning project as an example.
+- On the sign-up page, reference [freeCodeCamp](https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more) page to make a div in the middle of the page.
+
+**External Links**
+
+Used it as a further detail on hot springs that users can learn in the Recommendations section on the Destinations page.<br>
+(Used them as JPspa’s partner)
+
+https://dogo.jp/en/<br>
+https://ie.hotels.com/go/japan/best-hot-springs-beppu<br>
+https://hokkaido-treasure.com/column/057/<br>
+https://www.feel-kobe.jp/en/pickup/onsen_geiko/<br>
+https://www.hakonenavi.jp/international/en/article/399<br>
+https://www.visit-kyushu.com/en/spots/yufuin-onsen/<br>
+https://www.kurokawaonsen.or.jp/eng_new/<br>
+https://www.geroyamagataya.com/lg_en/<br>
+https://www.kagoshima-kankou.com/for/areaguide/ibusuki
+
 ## Media
+
+YouTube video<br>
+https://youtu.be/1sOKp1SLNsQ?si=qWbcG-KfGWIeJMiJ
+
+Google Map ( I used a Google Map to create a map of onsen in Japan and embedded it into my project )<br>
+https://www.google.com/maps/d/embed?mid=1m39FiGILk7YFKpCOcUOErI2Q9EeZ-5c&ehbc=2E312F
+
+Images<br>
+https://pixabay.com/<br>
+https://www.photo-ac.com/<br>
+https://cloudconvert.com/jpg-to-webp<br>
+https://pixelied.com/convert/jpg-converter/jpg-to-webp<br>
+
+Fonts<br>
+https://fonts.google.com/
+
+Icons<br>
+https://fontawesome.com/<br>
+https://www.favicon.cc/
+
+Other reference
+https://dequeuniversity.com/rules/axe/4.8/link-name<br>
+https://dequeuniversity.com/rules/axe/4.8/frame-title<br>
+https://www.digitalrebellion.com/webapps/aspectcalc
