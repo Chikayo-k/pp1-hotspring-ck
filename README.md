@@ -10,6 +10,9 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 
 ![JPspa web page on the common screen sizes](./readme/media/website-img.png)
 
+https://chikayo-k.github.io/pp1-hotspring-ck/<br>
+https://github.com/Chikayo-k/pp1-hotspring-ck
+
 ## Existing Features
 
 **Navigation Bar**
@@ -52,8 +55,8 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 
 **Footer**
 
-- The footer contains four social media icons when clicked open in new tabs.
-- Placing social media icons shows users we have an active presence outside of the website which can help to build our social media presence.
+- The footer contains four social media icons when clicked open in new tabs. Click the logo to navigate users to the top of the page.
+- Placing social media icons shows users we have an active presence outside of the website which can help to build our social media presence. With the logo, users can go back to the top of the page easilly.
 
 ![Footer image](./readme/media/footer.png)
 
