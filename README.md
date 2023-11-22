@@ -218,6 +218,7 @@ https://hakone-japan.com/things-to-do/onsen/an-onsen-guide/health-benefits-of-on
 - I used the [W3 schools](https://www.w3schools.com/html/default.asp) website as a tool to build my website referring to the HTML and CSS sections.
 - To make the navigation bar and footer I used the Love Lunning project as an example.
 - On the sign-up page, reference [freeCodeCamp](https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more) page to make a div in the middle of the page.
+- I used the [W3 schools "How TO - Hide Scrollbar"](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_hide_scrollbar_keep_func) page to hide the scroll bar of a sign up form.
 
 **External Links**
 
