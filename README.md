@@ -95,7 +95,6 @@ https://github.com/Chikayo-k/pp1-hotspring-ck
 - This is a signup page where users can become members of JPspa. Membership benefits provide users with discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
 
   ![Sign up image](./readme/media/signup.png)
-  ![Alt text](image.png)
 
 ### Feature left to implement
 
@@ -133,7 +132,7 @@ All pages have no errors and warnings and have been tested with the [W3C validat
 ![Tested with the HTML Validator](./readme/media/html-validator.png)
 
 **CSS** <br>
-No errors adn warnings and have been tested with the [W3C CSS validator](https://jigsaw.w3.org/css-validator)
+No errors and warnings and have been tested with the [W3C CSS validator](https://jigsaw.w3.org/css-validator)
 
 ![Tested with the CSS validator](./readme/media/css-validator.png)
 
