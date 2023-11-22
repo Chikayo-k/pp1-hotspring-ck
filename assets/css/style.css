@@ -218,6 +218,10 @@ footer li {
   color: black;
 }
 
+.list-onsen > li > a:hover {
+  color: #417d7a;
+}
+
 /* ---// Sign Up Page //--- */
 #signup {
   background: url(../images/green-tea.webp) right center/cover;
@@ -225,7 +229,7 @@ footer li {
   min-height: 100vh;
 }
 
-/* Refference(https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more)*/
+/* Refference(https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more) to place dive in the center of the page*/
 
 .formdiv-outside {
   width: 100%;
@@ -249,7 +253,7 @@ footer li {
 }
 
 /* Hide scroll bar */
-/* Refference https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_hide_scrollbar_keep_func */
+/* Refference https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_hide_scrollbar_keep_func to hide scroll bar */
 
 .formdiv::-webkit-scrollbar {
   display: none;
@@ -388,7 +392,7 @@ footer li {
   }
 
   .list-onsen {
-    text-align: right;
+    padding-left: 1rem;
   }
 
   /* ---// Sign Up Page //--- */
@@ -469,6 +473,7 @@ footer li {
   .list-onsen {
     text-align: center;
     line-height: 3rem;
+    font-size: 1.3rem;
   }
 
   /* ---// Sign Up Page //--- */
