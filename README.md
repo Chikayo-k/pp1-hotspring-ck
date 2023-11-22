@@ -85,7 +85,7 @@ https://github.com/Chikayo-k/pp1-hotspring-ck
 
 **Recomendation section**
 
-- The recommendations section provides information on famous hot springs in Japan. They are connected with our partners for a smoother experience.
+- The recommendations section provides information on famous hot springs in Japan. They are connected with our partners for a smoother experience. When the mouse hovers over the links, their colour, and font-weight will change.This helps users clearly see where to click.
 - This section is valuable to users as they will be able to find our partner websites easily and find more information for their final decision.
 
 ![Recommendations image](./readme/media/recommendation.png)
