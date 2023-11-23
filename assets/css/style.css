@@ -1,4 +1,4 @@
-/* Used love running project and w3 shools as a refference */
+/* Used love running project and w3 shools as a reference */
 /* Initial setting */
 @import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&family=Noto+Sans+JP:wght@300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap");
@@ -211,6 +211,7 @@ footer li {
   list-style-type: none;
   line-height: 2em;
   margin: 1.5rem 0;
+  text-align: left;
 }
 
 .list-onsen > li > a {
@@ -229,7 +230,7 @@ footer li {
   min-height: 100vh;
 }
 
-/* Refference(https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more) to place dive in the center of the page*/
+/* Reference(https://www.freecodecamp.org/japanese/news/how-to-center-anything-with-css-align-a-div-text-and-more) to place dive in the center of the page*/
 
 .formdiv-outside {
   width: 100%;
@@ -253,7 +254,7 @@ footer li {
 }
 
 /* Hide scroll bar */
-/* Refference https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_hide_scrollbar_keep_func to hide scroll bar */
+/* Reference https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_hide_scrollbar_keep_func to hide scroll bar */
 
 .formdiv::-webkit-scrollbar {
   display: none;
@@ -376,16 +377,7 @@ footer li {
   }
 
   /*--- // Destinations Page //----*/
-  .recommendations-div {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-  }
 
-  .box {
-    flex: 1;
-  }
   .recomendations-pic {
     width: 100%;
     aspect-ratio: 3/2;
@@ -465,13 +457,7 @@ footer li {
 
   /*--- //Destinations Page //---*/
 
-  .recomendations-pic {
-    width: 100%;
-    margin: 2rem 0;
-  }
-
   .list-onsen {
-    text-align: center;
     line-height: 3rem;
     font-size: 1.3rem;
   }
@@ -480,5 +466,25 @@ footer li {
   .formdiv {
     width: 35%;
     margin-top: 2.5%;
+  }
+}
+
+/* //Over 992 px// */
+@media screen and (min-width: 1200px) {
+  /*--- //Destinations Page //---*/
+
+  .recommendations-div {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .box {
+    flex: 1;
+  }
+
+  .list-onsen {
+    padding-left: 30%;
   }
 }
