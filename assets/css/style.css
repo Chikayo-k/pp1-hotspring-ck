@@ -207,6 +207,11 @@ footer li {
   width: 100%;
 }
 
+.recomendations-pic {
+  width: 100%;
+  aspect-ratio: 3/2;
+}
+
 .list-onsen {
   list-style-type: none;
   line-height: 2em;
@@ -378,13 +383,8 @@ footer li {
 
   /*--- // Destinations Page //----*/
 
-  .recomendations-pic {
-    width: 100%;
-    aspect-ratio: 3/2;
-  }
-
   .list-onsen {
-    padding-left: 1rem;
+    font-size: 1.3rem;
   }
 
   /* ---// Sign Up Page //--- */
@@ -459,7 +459,6 @@ footer li {
 
   .list-onsen {
     line-height: 3rem;
-    font-size: 1.3rem;
   }
 
   /* ---// Sign Up Page //--- */
