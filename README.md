@@ -78,7 +78,7 @@ https://github.com/Chikayo-k/pp1-hotspring-ck
 
 **Map of Japanese Onsen**
 
-- Map that displays hot-spring spots throughout Japan that can be clicked and expanded to provide users with more details.
+- Map that displays hot-spring spots throughout Japan that can be clicked and expanded to provide users with more details. They are also connected with our partners websites.
 - This section will allow users to explore our partner hot springs throughout the country and help them decide where in Japan they would love to visit. The map can be zoomed in to see where would be the best place to visit.
 
 ![Map of Japanese onsen image](./readme/media/map-onsen.png)
