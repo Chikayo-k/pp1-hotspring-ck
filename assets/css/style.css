@@ -185,7 +185,8 @@ footer li {
   padding-right: 1rem;
 }
 
-.smp {
+.smp,
+.contact {
   color: #ffffff;
   font-size: 1.2rem;
 }
@@ -376,7 +377,8 @@ footer li {
     justify-content: flex-end;
   }
 
-  .smp {
+  .smp,
+  .contact {
     font-size: 1.5rem;
     padding: 0.5rem;
   }
