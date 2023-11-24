@@ -55,7 +55,7 @@ https://github.com/Chikayo-k/pp1-hotspring-ck
 
 **Footer**
 
-- The footer contains four social media icons when clicked open in new tabs. Click the logo to navigate users to the top of the page.
+- The footer contains four social media icons when clicked open in new tabs. Click the logo to navigate users to the top of the page. Email icon allows users to contact us via email.
 - Placing social media icons shows users we have an active presence outside of the website which can help to build our social media presence. With the logo, users can go back to the top of the page easilly.
 
 ![Footer image](./readme/media/footer.png)
