@@ -13,6 +13,44 @@ JPspa will offer excellent discount vouchers for different onsen in Japan on a r
 https://chikayo-k.github.io/pp1-hotspring-ck/<br>
 https://github.com/Chikayo-k/pp1-hotspring-ck
 
+## Planning
+
+**Target Audience**
+
+People who are visiting Japan or already there to look for a spa or Onsen experience in Japan.
+
+**User Goals**
+
+- Find hot springs and Onsen in Japan.
+- Learn about hot springs and Onsen in Japan.
+- Find information on hot springs and Onsen facilities in Japan.
+
+**Site Owner Goals**
+
+- Appeal of hot springs in Japan to users.
+- Get commission from partners by users to go to our partners' websites from our website which is a promotion and increases their website traffic by prospective customers.
+- Using vouchers provided by our News Letters at our partners.
+
+**User Stories**
+
+- As a user, I want to be able to access the website so I can browse different devices.
+- As a user, I want to know if there are worthwhile hot spring experiences in Japan so I can decide if I want to visit.
+- As a user, I want to know what hot springs are like in Japan so I can decide if I want to go.
+- As a user, I want to find places to visit in Japan so I can plan my trip.
+- As a site owner, I want to attract users to hot springs and Onsen in Japan so I can share knowledge with customers.
+- As a site owner, I want users to visit our partner websites so I can help to increase their website traffic.
+- As a site owner, I want users to sign up for our newsletters and use vouchers at partners so I can increase the number of users to the site.
+
+**Features to achieve these goals**
+
+- The website uses a responsive design that can be seen on different devices easily.
+- To attract users to visit hot springs in Japan, we provide information on the benefits of hot springs and provide nice spa pictures across the pages so users have an idea of what to expect.
+- The site contains a YouTube video of details of hot spring facilities in Japan.
+- The site contains an interactive map of hot springs in Japan to show where users can visit.
+- Map can lead customers to our partner's website.
+- Recommendation links are linked to our partner's pages.
+- A sign-up form to increase our customer list and provide newsletters and vouchers to users.
+
 ## Existing Features
 
 **Navigation Bar**
@@ -117,7 +155,7 @@ I think it would attract more users to the site if there was a built in booking 
 
 ![test-socialmedia](./readme/media/test-socialmedia.png)
 
-- Tested a logo in the footer which jumps back top of the page.
+- Tested logo in the footer to make sure it returns to the top of the page.
 - Tested all links in the recommendation section on the destinations page to ensure they open in a new tab with the correct destination when clicked.
 
 ![Tested links](./readme/media/test-links.png)
@@ -146,6 +184,10 @@ Desktop<br>
 Mobile<br>
 ![Lighthouse report small divices](./readme/media/lighthouse-mobile.png)
 
+## Usability Testing
+
+When the project was done I shared it with 5 friends and family members to test. They said that the website looked very nice and didn’t find any issues. All understood the purpose of the website and who it was meant for.
+
 ## Bugs
 
 **Fixed W3C Vlidator warnings and errors**
@@ -170,6 +212,10 @@ Mobile<br>
   So I put more content in the destination section.
 
 ![Validator bug 5](./readme/media/bug5.png)
+
+All the CSS validator tests passed. However, there were several warnings. A warning from Font Awesome and a warning from the scroll bar due to it being hidden with CSS. As these are just warnings and not errors I decided to leave them.
+
+![Warnings](./readme/media/warnings.png)
 
 **Lighthouse report improvement**<br>
 Analyse the website with Lighthouse and had high scores. However, there were still places where I could improve them.
