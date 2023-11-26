@@ -300,6 +300,13 @@ footer li {
   background-color: #417d7a;
 }
 
+/*--- // Contact Page //----*/
+#contact {
+  background: url(../images/contact.webp) no-repeat center center/cover;
+  width: 100%;
+  height: 500px;
+}
+
 /*------- Media query ------------*/
 
 /* //Over 768px// */
