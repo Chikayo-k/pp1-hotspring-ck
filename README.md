@@ -51,6 +51,22 @@ People who are visiting Japan or already there to look for a spa or Onsen experi
 - Recommendation links are linked to our partner's pages.
 - A sign-up form to increase our customer list and provide newsletters and vouchers to users.
 
+**Colour Scheme**
+
+The [Colour Hunt](https://colorhunt.co/) website was used to choose a colour.<br>
+I researched the meaning of colours and found out the colour green which has calming, natural, relaxing, and healthful psychological meanings would be suited best for the main colour of the website. This gives users a relaxed feeling when they visit our site. Green also provides users with positive feelings like hope which is always good for a person travelling.
+
+![Colour scheme](./readme/media/colour-scheme.png)
+
+**Wireframes**
+
+I used [Balsamiq Wireframes](https://balsamiq.com/wireframes/) to create wireframes before starting the project to help me plan the layout and flow of the project.<br>
+When I was creating my website, the design plan was slightly changed. The recommendation section of the tablet design was planned to be the same design as the desktop, but it changed because the picture and the word didn’t fit well together when in tablet size.
+
+- [**Large Screen**](./readme/media/large-screen.png)
+- [**Tablet**](./readme/media/tablet.png)
+- [**Phone**](./readme/media/phone.png)
+
 ## Existing Features
 
 **Navigation Bar**
@@ -188,6 +204,18 @@ Mobile<br>
 ## Usability Testing
 
 When the project was done I shared it with 5 friends and family members to test. They said that the website looked very nice and didn’t find any issues. All understood the purpose of the website and who it was meant for.
+
+### **User Story Testing**
+
+| User Story                                                                                                                                   | Expected Result                                                                                    | Pass    |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- |
+| As a user, I want to be able to access the website so I can browse different devices.                                                        | The website uses a responsive design that can be seen on different devices easily.                 | &check; |
+| As a user, I want to know if there are worthwhile hot spring experiences in Japan so I can decide if I want to visit.                        | Provide information on the benefits of hot springs and provide nice spa pictures across the pages  | &check; |
+| As a user, I want to know what hot springs are like in Japan so I can decide if I want to go.                                                | There is a YouTube video of details of hot spring facilities in Japan.                             | &check; |
+| As a user, I want to find places to visit in Japan so I can plan my trip.                                                                    | The site contains an interactive map of hot springs in Japan to show where users can visit.        | &check; |
+| As a site owner, I want to attract users to hot springs and Onsen in Japan.                                                                  | Provide information on the benefits of hot springs and provide nice spa pictures across the pages. | &check; |
+| As a site owner, I want users to visit our partner websites so I can help to increase their website traffic.                                 | Map can lead customers to our partner's website.                                                   | &check; |
+| As a site owner, I want users to sign up for our newsletters and use vouchers at partners so I can increase the number of users to the site. | A sign-up form to increase our customer list and provide newsletters and vouchers to users.        | &check; |
 
 ## Bugs
 
