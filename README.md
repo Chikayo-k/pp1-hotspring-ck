@@ -136,8 +136,9 @@ People who are visiting Japan or already there to look for a spa or Onsen experi
 
 ### Feature left to implement
 
-The website could have more pages in the future.
-I think it would attract more users to the site if there was a built in booking page. Users can book spa or Japanese-style hotels within the website increasing the value of this website and its throughput.
+- The website could have more pages in the future. I think it would attract more users to the site if there was a built in booking page. Users can book spa or Japanese-style hotels within the website increasing the value of this website and its throughput.
+- Creating a customer support page. Using a generative AI chatbot that will have the capability to answer from a select set of general questions and it will also feature the ability to be able to contact our staff members. Simple questions will be responded to by AI.
+- Recommendation section links are just text at the moment. Because I couldn’t find pictures in the free domain to use. In the future, appropriate photos will be taken by professional photographer and placed as an image with embedded links.
 
 ## Testing
 
