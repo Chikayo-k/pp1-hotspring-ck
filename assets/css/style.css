@@ -317,6 +317,33 @@ footer li {
   text-align: center;
 }
 
+.phonediv,
+.emaildiv {
+  width: 80%;
+  border: #417d7a solid 1px;
+  background-color: #ede6db;
+  text-align: center;
+  margin: 10%;
+  padding-bottom: 10%;
+}
+.phone,
+.email {
+  color: #1d5c63;
+  font-size: 2rem;
+  margin: 10% 0;
+}
+
+.contact-title {
+  font-size: 1.3rem;
+  color: #1d5c63;
+}
+
+.phone-number {
+  text-decoration: none;
+  color: #1d5c63;
+  margin-top: 10%;
+}
+
 /*------- Media query ------------*/
 
 /* //Over 768px// */
