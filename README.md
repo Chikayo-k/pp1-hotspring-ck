@@ -40,6 +40,7 @@ People who are visiting Japan or already there to look for a spa or Onsen experi
 - As a site owner, I want to attract users to hot springs and Onsen in Japan so I can share knowledge with customers.
 - As a site owner, I want users to visit our partner websites so I can help to increase their website traffic.
 - As a site owner, I want users to sign up for our newsletters and use vouchers at partners so I can increase the number of users to the site.
+- As a user, I want to be able to contact JPspa if I have any issues.
 
 **Features to achieve these goals**
 
@@ -50,6 +51,7 @@ People who are visiting Japan or already there to look for a spa or Onsen experi
 - Map can lead customers to our partner's website.
 - Recommendation links are linked to our partner's pages.
 - A sign-up form to increase our customer list and provide newsletters and vouchers to users.
+- The contact page is featured and provides contact information in there.
 
 **Colour Scheme**
 
@@ -250,6 +252,7 @@ When the project was done I shared it with 5 friends and family members to test.
 | As a user, I want to know if there are worthwhile hot spring experiences in Japan so I can decide if I want to visit.                        | Provide information on the benefits of hot springs and provide nice spa pictures across the pages  | &check; |
 | As a user, I want to know what hot springs are like in Japan so I can decide if I want to go.                                                | There is a YouTube video of details of hot spring facilities in Japan.                             | &check; |
 | As a user, I want to find places to visit in Japan so I can plan my trip.                                                                    | The site contains an interactive map of hot springs in Japan to show where users can visit.        | &check; |
+| As a user, I want to be able to contact JPspa if I have any issues.                                                                          | The contact page is featured and provides contact information in there.                            | &check; |
 | As a site owner, I want to attract users to hot springs and Onsen in Japan.                                                                  | Provide information on the benefits of hot springs and provide nice spa pictures across the pages. | &check; |
 | As a site owner, I want users to visit our partner websites so I can help to increase their website traffic.                                 | Map can lead customers to our partner's website.                                                   | &check; |
 | As a site owner, I want users to sign up for our newsletters and use vouchers at partners so I can increase the number of users to the site. | A sign-up form to increase our customer list and provide newsletters and vouchers to users.        | &check; |
