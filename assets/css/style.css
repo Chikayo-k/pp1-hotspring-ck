@@ -310,6 +310,11 @@ footer li {
   align-items: center;
 }
 
+#contact-details {
+  display: flex;
+  flex-direction: column;
+}
+
 .contactbox {
   background-color: rgb(0, 0, 0, 0.8);
   color: #ede6db;
@@ -323,25 +328,33 @@ footer li {
   border: #417d7a solid 1px;
   background-color: #ede6db;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 10%;
-  padding-bottom: 10%;
+  padding: 10%;
 }
+
 .phone,
 .email {
   color: #1d5c63;
-  font-size: 2rem;
-  margin: 10% 0;
+  font-size: 1.5rem;
 }
 
 .contact-title {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   color: #1d5c63;
+  margin-top: 20%;
+  font-weight: bold;
 }
 
 .phone-number {
   text-decoration: none;
   color: #1d5c63;
-  margin-top: 10%;
+}
+
+.p-number {
+  color: #1d5c63;
 }
 
 /*------- Media query ------------*/
@@ -512,9 +525,17 @@ footer li {
     width: 35%;
     margin-top: 2.5%;
   }
+
+  /*--- // Contact Page //----*/
+
+  #contact-details {
+    flex-direction: row;
+    width: 70%;
+    margin-left: 15%;
+  }
 }
 
-/* //Over 992 px// */
+/* //Over 1200 px// */
 @media screen and (min-width: 1200px) {
   /*--- //Destinations Page //---*/
 
