@@ -310,6 +310,16 @@ footer li {
   align-items: center;
 }
 
+#contact-message {
+  margin: 5% 10% 0 10%;
+  text-align: center;
+}
+
+#contact-message > p {
+  margin-top: 5%;
+  text-align: left;
+}
+
 #contact-details {
   display: flex;
   flex-direction: column;
@@ -339,6 +349,11 @@ footer li {
 .email {
   color: #1d5c63;
   font-size: 1.5rem;
+}
+
+.email:hover {
+  color: #1a3c40;
+  font-size: 3rem;
 }
 
 .contact-title {
@@ -532,6 +547,10 @@ footer li {
     flex-direction: row;
     width: 70%;
     margin-left: 15%;
+  }
+
+  #contact-message > p {
+    text-align: center;
   }
 }
 
