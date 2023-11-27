@@ -63,19 +63,23 @@ I researched the meaning of colours and found out the colour green which has cal
 I used [Balsamiq Wireframes](https://balsamiq.com/wireframes/) to create wireframes before starting the project to help me plan the layout and flow of the project.<br>
 When I was creating my website, the design plan was slightly changed. The recommendation section of the tablet design was planned to be the same design as the desktop, but it changed because the picture and the word didn’t fit well together when in tablet size.
 
-- [**Large Screen**](./readme/media/large-screen.png)
-- [**Tablet**](./readme/media/tablet.png)
-- [**Phone**](./readme/media/phone.png)
+- [**Large Screen**](./readme/wireframes/large-screen.png)
+- [**Tablet**](./readme/wireframes/tablet.png)
+- [**Phone**](./readme/wireframes/phone.png)
 
 ## Existing Features
 
 **Navigation Bar**
 
-- The site uses a responsive navigation bar made up of three pages these are the Home page, Destination, and Signup pages. It also contains a logo. The logo and Home can be used to navigate to the top of the home page. Destinations, and Sign Up navigate to their relevant pages.
+- The site uses a responsive navigation bar made up of four pages these are the Home page, Destination, Signup, and Contact pages. It also contains a logo. The logo and Home can be used to navigate to the top of the home page. Destinations, Sign Up, and Contact navigate to their relevant pages.
 
 - A user can access the other pages on the site and see what page they are currently on by looking at the menu in the navigation bar. When the user is on a page it will show that in bold text.
 
 ![Navigation bar](./readme/media/navbar.png)
+
+- The menu will be changed to use the hamburger icon for small devices. I followed the steps from the Love Running project.
+
+![Navigation bar (small devices)](./readme/media/navbar-s.png)
 
 **The landing page image**
 
@@ -100,12 +104,14 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Benefits of onsen image](./readme/media/benefits.png)
 
+- While a bigger screen size shows two columns, a small device shows just one column. This increases readability on small devices.
+
+![Benefts and Hot spring in Japan section (small decvices)](./readme/media/benefts-hsjp-s.png)
+
 **Japanese-style hotel section**
 
 - Gives a brief intro to Japanese-style hotels and how they are rooted in the historical traditions of the country. Accompanied by a video that showcases this. The Video is a YouTube video and has the same features.
 - This user, will inspired by an amazing video and accompanying description and may contemplate taking further steps to find accommodation in a Japanese-style hotel on their visit.
-
-![Japanese style hotel image](./readme/media/jpstyle-hotel.png)
 
 **Footer**
 
@@ -144,11 +150,42 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Recommendations image](./readme/media/recommendation.png)
 
-**Sign Up page**
+- While a bigger screen size shows two columns, a small device shows just one column. This will help users to easily find the list of our partner's website.
+
+![Recomendation (small devices)](./readme/media/recommendation-s.png)
+
+### Sign Up page
 
 - This is a signup page where users can become members of JPspa. Membership benefits provide users with discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
 
   ![Sign up image](./readme/media/signup.png)
+
+### Contact Page
+
+**Contact page image**
+
+- A nice calm picture of a hot spring with a leading message to show the user this is our contact page.
+- Shows the nice calm hot spring picture which will help keep users in a spa mood and not snap them back to reality. Users will understand that it is a contact page and understand its function.
+
+![Contact page image](./readme/media/contact.png)
+
+**Message**
+
+- There is a small thank you message for users to show our appreciation.
+- This will help to build customer loyalty and also increase users' trust.
+
+![Tnank you message](./readme/media/thanks-message.png)
+
+**Contact Details**
+
+- There are also several ways for our customers to reach us by either email or phone. If you click the email image it will open your email box to write a message to us directly.
+- This lets them know that we are always available to answer their questions
+
+![Contact details](./readme/media/contact-details.png)
+
+- While a bigger screen size shows two columns, a small device shows just one column. This user will see more easily.
+
+![Contact details (small devices)](./readme/media/contactdetails-s.png)
 
 ### Feature left to implement
 
@@ -161,21 +198,21 @@ When I was creating my website, the design plan was slightly changed. The recomm
 - Tested with different browsers such as Chrome, Firefox, and Safari.
 - Tested with different screen sizes using the developer tool (Galaxy Fold, iPad, and my laptop)
 
-![Tested different screen sizes](./readme/media/testscreensize.png)
+![Tested different screen sizes](./readme/test/testscreensize.png)
 
 - Tested navigation bar. Home, Destinations, and Sign Up pages jump to the respective places when it's clicked.
 - Tested embedded YouTube video starts and has control within the site.
 
-![Tested Youtube video](./readme/media/test-youtube.png)
+![Tested Youtube video](./readme/test/test-youtube.png)
 
 - Tested all social media links in the footer to ensure they open in a new tab with the correct destination when clicked.
 
-![test-socialmedia](./readme/media/test-socialmedia.png)
+![test-socialmedia](./readme/test/test-socialmedia.png)
 
 - Tested logo in the footer to make sure it returns to the top of the page.
 - Tested all links in the recommendation section on the destinations page to ensure they open in a new tab with the correct destination when clicked.
 
-![Tested links](./readme/media/test-links.png)
+![Tested links](./readme/test/test-links.png)
 
 - Tested the form on the Sign-Up page. All required fields worked and the submission button worked.
 
@@ -184,22 +221,22 @@ When I was creating my website, the design plan was slightly changed. The recomm
 **HTML** <br>
 All pages have no errors and warnings and have been tested with the [W3C validator](https://validator.w3.org).
 
-![Tested with the HTML Validator](./readme/media/html-validator.png)
+![Tested with the HTML Validator](./readme/test/html-validator.png)
 
 **CSS** <br>
 No errors and warnings and have been tested with the [W3C CSS validator](https://jigsaw.w3.org/css-validator)
 
-![Tested with the CSS validator](./readme/media/css-validator.png)
+![Tested with the CSS validator](./readme/test/css-validator.png)
 
 **Lighthouse report**<br>
 Analysed this page with Lighthouse. Most of the scores are nearly 100%.<br>
 The performance tag is the better score on a desktop screen. a bit low due to having a YouTube video and a Google Map on this website which has impacted the speed slightly.
 
 Desktop<br>
-![Lighthouse report desktop](./readme/media/lighthouse.png)
+![Lighthouse report desktop](./readme/test/lighthouse.png)
 
 Mobile<br>
-![Lighthouse report small divices](./readme/media/lighthouse-mobile.png)
+![Lighthouse report small divices](./readme/test/lighthouse-mobile.png)
 
 ## Usability Testing
 
@@ -217,40 +254,44 @@ When the project was done I shared it with 5 friends and family members to test.
 | As a site owner, I want users to visit our partner websites so I can help to increase their website traffic.                                 | Map can lead customers to our partner's website.                                                   | &check; |
 | As a site owner, I want users to sign up for our newsletters and use vouchers at partners so I can increase the number of users to the site. | A sign-up form to increase our customer list and provide newsletters and vouchers to users.        | &check; |
 
-## Bugs
+## Bugs / Warning
 
 **Fixed W3C Vlidator warnings and errors**
 
 - Removed slashes as the website had a warning about having a slash on the void element in the header.
 
-![Validator bug 1](./readme/media/bug1.png)
+![Validator bug 1](./readme/bugs/bug1.png)
 
 - Some of the closing tags weren’t closed with the same tag and some were wrong places. So fixed them.
 
-![Valdiator bug 2](./readme/media/bug2.png)
+![Valdiator bug 2](./readme/bugs/bug2.png)
 
 - Fixed duplicated ID
 
-![Validator bug 3](./readme/media/bug3.png)
+![Validator bug 3](./readme/bugs/bug3.png)
 
 - I had a warning for having an h1 tag that wasn’t a top-level heading in the explore section of the landing page.<br>Solved the issue by using a h2 tag instead of an h1 of the place.
 
-![Validator bug 4](./readme/media/bug4.png)
+![Validator bug 4](./readme/bugs/bug4.png)
 
 - I was using a section tag only to render a picture as a background and got this issue.<br>
   So I put more content in the destination section.
 
-![Validator bug 5](./readme/media/bug5.png)
+![Validator bug 5](./readme/bugs/bug5.png)
 
 All the CSS validator tests passed. However, there were several warnings. A warning from Font Awesome and a warning from the scroll bar due to it being hidden with CSS. As these are just warnings and not errors I decided to leave them.
 
-![Warnings](./readme/media/warnings.png)
+![Warnings](./readme/bugs/warnings.png)
 
-**Lighthouse report improvement**<br>
+**Lighthouse report improvement**
+
 Analyse the website with Lighthouse and had high scores. However, there were still places where I could improve them.
 
 - I was using pictures where their sizes were too big and that caused the issue of the loading speed of the page to be impacted. So I compressed the images to be smaller size by converting the images to a WEBP format. This decreased the image size. Some of the pictures also used Photoshop to decrease the pixels.
 - Used aspect ratio property in CSS to remove the issue that the images didn’t have a correct height.
+- There was a warning that brought the accessibility score down slightly during some light house testing that I was doing. The aria label didn’t match the word inside and as such returned an error. To fix it I changed the aria-label from “links to the home page” to “JPspa logo links to home page”. After changing the label the accessibility score went up to 100 percent.
+
+![Lighthouse warning](./readme/bugs/lighthouse-warning.png)
 
 ## Deployment procedure
 
@@ -259,28 +300,28 @@ This site was deployed using GitHub pages.
 1. Go into the project repository that you want to deploy.
 2. Click the settings on the menu bar of the page.
 
-![Deployment procedure 2](./readme/media/deployment1.png)
+![Deployment procedure 2](./readme/deployment/deployment1.png)
 
 3. Check that the repository name is correct.
 4. In the general menu on the left-hand side, click the pages tab.
 
-![Deployment procedure 4](./readme/media/deployment2.png)
+![Deployment procedure 4](./readme/deployment/deployment2.png)
 
 5. Source should be set to Deploy from a branch.
 
-![Deployment procedure 5](./readme/media/deployment3.png)
+![Deployment procedure 5](./readme/deployment/deployment3.png)
 
 6. Underneath, the Branch section is selected. Here we use the main branch and root folder and save it.
 
-![Deployment procedure 6](./readme/media/deployment4.png)
+![Deployment procedure 6](./readme/deployment/deployment4.png)
 
 7. Go back to the code page and you will see the Deployment section on the right-hand side.
 
-![Deployment procedure 7](./readme/media/deployment5.png)
+![Deployment procedure 7](./readme/deployment/deployment5.png)
 
 8. Go inside the deployments, you can see the address of your website.
 
-![Deployment procedure 8](./readme/media/deployment6.png)
+![Deployment procedure 8](./readme/deployment/deployment6.png)
 
 ## Credits
 
