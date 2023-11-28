@@ -42,7 +42,7 @@ People who are visiting Japan or already there to look for a spa or Onsen experi
 - As a site owner, I want users to visit our partner websites so I can help to increase their website traffic.
 - As a site owner, I want users to sign up for our newsletters and use vouchers at our partners so I can increase the number of users to their site.
 
-**Features to achieve these goals**
+**Features To Achieve These Goals**
 
 - The website uses a responsive design that can be seen on different devices easily.
 - To attract users to visit hot springs in Japan, we provide information on the benefits of hot springs and provide nice spa pictures across the pages so users have an idea of what to expect.
@@ -83,7 +83,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Navigation bar (small devices)](./readme/media/navbar-s.png)
 
-**The landing page image**
+**The Landing Page mage**
 
 - Is a photograph accompanied by a short description and title that gives the users a clear picture of the website's purpose and gives a clear idea of where and what services are provided.
 
@@ -91,7 +91,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Landin image](./readme/media/landing.png)
 
-**Hot spring in Japan section**
+**Hot Spring In Japan Section**
 
 - A brief Introduction to hot springs in Japan and their use as Onsen, accompanied by an image capturing the beauty of Japan.
 
@@ -99,7 +99,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Japan image](./readme/media/japan.png)
 
-**Benefits of Onsen section**
+**Benefits Of Onsen Section**
 
 - Explaining the benefits of Onsen, accompanied by an image of a natural hot spring.
 - In This section, users will discover the value of visiting hot springs as well as information on the health benefits for the mind and body.
@@ -110,7 +110,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Benefts and Hot spring in Japan section (small decvices)](./readme/media/benefts-hsjp-s.png)
 
-**Japanese-style hotel section**
+**Japanese-style Hotel Section**
 
 - Gives a brief intro to Japanese-style hotels and how they are rooted in the historical traditions of the country. Accompanied by a video that showcases this. The Video is a YouTube video and has the same features.
 - This user, will inspired by an amazing video and accompanying description and may contemplate taking further steps to find accommodation in a Japanese-style hotel on their visit.
@@ -122,16 +122,16 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Footer image](./readme/media/footer.png)
 
-### Destination page
+### Destination Page
 
-**The destinations page image**
+**The Destinations Page Image**
 
 - A photograph of a traditional Japanese shoji window.
 - This section’s imagery will give users a glimpse of what a luxurious Japanese-style hotel is like and help them on their way to choose where they want to spend their in Japan.
 
 ![Destination image](./readme/media/destination.png)
 
-**Where to go section**
+**Where You Can Go Section**
 
 - The title explains this page with a brief introduction.
 - User will see what this page is about clearly.
@@ -145,7 +145,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Map of Japanese onsen image](./readme/media/map-onsen.png)
 
-**Recomendation section**
+**Recomendation Section**
 
 - The recommendations section provides information on famous hot springs in Japan. They are connected with our partners for a smoother experience. When the mouse hovers over the links, their colour, and font-weight will change.This helps users clearly see where to click.
 - This section is valuable to users as they will be able to find our partner websites easily and find more information for their final decision.
@@ -156,7 +156,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Recomendation (small devices)](./readme/media/recommendation-s.png)
 
-### Sign Up page
+### Sign Up Page
 
 - This is a signup page where users can become members of JPspa. Membership benefits provide users with discount vouchers to our partner Onsens every week sent out in our newsletter. User will be asked to submit their full name, email address, and password.
 
@@ -164,7 +164,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ### Contact Page
 
-**Contact page image**
+**Contact Page Image**
 
 - A nice calm picture of a hot spring with a leading message to show the user this is our contact page.
 - Shows the nice calm hot spring picture which will help keep users in a spa mood and not snap them back to reality. Users will understand that it is a contact page and understand its function.
@@ -189,7 +189,7 @@ When I was creating my website, the design plan was slightly changed. The recomm
 
 ![Contact details (small devices)](./readme/media/contactdetails-s.png)
 
-### Feature left to implement
+### Feature Left To Implement
 
 - The website could have more pages in the future. I think it would attract more users to the site if there was a built in booking page. Users can book spa or Japanese-style hotels within the website increasing the value of this website and its throughput.
 - Creating a customer support page. Using a generative AI chatbot that will have the capability to answer from a select set of general questions and it will also feature the ability to be able to contact our staff members. Simple questions will be responded to by AI.
@@ -230,7 +230,7 @@ No errors and warnings and have been tested with the [W3C CSS validator](https:/
 
 ![Tested with the CSS validator](./readme/test/css-validator.png)
 
-**Lighthouse report**<br>
+**Lighthouse Report**<br>
 Analysed this page with Lighthouse. Most of the scores are nearly 100%.<br>
 The performance tag is the better score on a desktop screen. a bit low due to having a YouTube video and a Google Map on this website which has impacted the speed slightly.
 
@@ -255,7 +255,7 @@ When the project was done I shared it with 5 friends and family members to test.
 
 ## Bugs / Warning
 
-**Fixed W3C Vlidator warnings and errors**
+Fixed W3C Vlidator warnings and errors.
 
 - Removed slashes as the website had a warning about having a slash on the void element in the header.
 
@@ -282,6 +282,8 @@ All the CSS validator tests passed. However, there were several warnings. A warn
 
 ![Warnings](./readme/bugs/warnings.png)
 
+- There are some warnings on a console. They are coming from YouTube video and Google Map. I decided to leave the warnings as they are coming from third party sources.
+
 **Lighthouse report improvement**
 
 Analyse the website with Lighthouse and had high scores. However, there were still places where I could improve them.
@@ -292,7 +294,7 @@ Analyse the website with Lighthouse and had high scores. However, there were sti
 
 ![Lighthouse warning](./readme/bugs/lighthouse-warning.png)
 
-## Deployment procedure
+## Deployment Procedure
 
 This site was deployed using GitHub pages.
 
