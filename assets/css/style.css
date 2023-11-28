@@ -208,6 +208,10 @@ footer li {
   width: 100%;
 }
 
+.rec-message {
+  margin-bottom: 2rem;
+}
+
 .recomendations-pic {
   width: 100%;
   aspect-ratio: 3/2;
