@@ -17,7 +17,7 @@ https://github.com/Chikayo-k/pp1-hotspring-ck
 
 **Target Audience**
 
-People who are visiting Japan or already there to look for a spa or Onsen experience in Japan.
+People who are visiting Japan or are already there to look for a spa or Onsen experience in Japan.
 
 **User Goals**
 
